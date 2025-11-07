@@ -17,6 +17,9 @@ export default function Home() {
           <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
             The page.tsx file has been edited.
           </h1>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita quo unde libero debitis accusamus non eius amet. Voluptatibus quidem nam at repellendus, tempora animi reiciendis, dolorum ipsum laudantium unde excepturi.
+          </p>
         </div>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
           <ThemeSwitcher />
